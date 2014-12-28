@@ -1,0 +1,206 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-22 BZR 5299)-product   date = Wed 24 Dec 2014 10:15:00 AM EST
+
+BeginCmp
+TimeStamp = /54994EB6;
+Reference = C1;
+ValeurCmp = 0,1uF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54958890;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54958960;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Discret:C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54958DEC;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Discret:C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498EC80;
+Reference = C5;
+ValeurCmp = 10pF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499F6EC;
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = Discret:C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499EB24;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498E85A;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5494ED49;
+Reference = P1;
+ValeurCmp = PiB+_IO;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /54996142;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /549960F5;
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54995F69;
+Reference = P4;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54964048;
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499A48B;
+Reference = P6;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499130F;
+Reference = P7;
+ValeurCmp = CONN_01X01;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5494EFFA;
+Reference = P8;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498C5C5;
+Reference = P9;
+ValeurCmp = nrf24L01+;
+IdModule  = MyFootprints:nrf24L01;
+EndCmp
+
+BeginCmp
+TimeStamp = /54992CE3;
+Reference = P10;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496FADF;
+Reference = R1;
+ValeurCmp = 3.9K;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496FB34;
+Reference = R2;
+ValeurCmp = 3.9K;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /549588E9;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54990272;
+Reference = R4;
+ValeurCmp = 4.7K;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498E7E7;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496055B;
+Reference = U1;
+ValeurCmp = ArduinoProMini-3v3;
+IdModule  = MyFootprints:Sparkfun-ArduinoProMini;
+EndCmp
+
+BeginCmp
+TimeStamp = /549591E3;
+Reference = U2;
+ValeurCmp = 24C16;
+IdModule  = Power_Integrations:PDIP-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /54960506;
+Reference = U3;
+ValeurCmp = RFM69HW;
+IdModule  = MyFootprints:RFM69;
+EndCmp
+
+BeginCmp
+TimeStamp = /54959212;
+Reference = U4;
+ValeurCmp = 24C16;
+IdModule  = SMD_Packages:SOIC-8-W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54963F64;
+Reference = U5;
+ValeurCmp = DS18B20;
+IdModule  = Housings_TO-92:TO-92-Free-inline-narrow-oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /54963FCF;
+Reference = U6;
+ValeurCmp = TMP36;
+IdModule  = Housings_TO-92:TO-92-Free-inline-narrow-oval;
+EndCmp
+
+EndListe
