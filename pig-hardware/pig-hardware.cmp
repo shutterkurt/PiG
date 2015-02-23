@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-22 BZR 5299)-product   date = Wed 24 Dec 2014 10:15:00 AM EST
+Cmp-Mod V01 Created by Cvpcb (2014-11-22 BZR 5299)-product   date = Sun 22 Feb 2015 04:03:25 PM EST
 
 BeginCmp
 TimeStamp = /54994EB6;
@@ -99,13 +99,6 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
 EndCmp
 
 BeginCmp
-TimeStamp = /5499130F;
-Reference = P7;
-ValeurCmp = CONN_01X01;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
-EndCmp
-
-BeginCmp
 TimeStamp = /5494EFFA;
 Reference = P8;
 ValeurCmp = CONN_01X02;
@@ -117,13 +110,6 @@ TimeStamp = /5498C5C5;
 Reference = P9;
 ValeurCmp = nrf24L01+;
 IdModule  = MyFootprints:nrf24L01;
-EndCmp
-
-BeginCmp
-TimeStamp = /54992CE3;
-Reference = P10;
-ValeurCmp = CONN_01X04;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
 EndCmp
 
 BeginCmp
@@ -162,10 +148,10 @@ IdModule  = Discret:R1;
 EndCmp
 
 BeginCmp
-TimeStamp = /5496055B;
+TimeStamp = /54E3EFE8;
 Reference = U1;
-ValeurCmp = ArduinoProMini-3v3;
-IdModule  = MyFootprints:Sparkfun-ArduinoProMini;
+ValeurCmp = Moteino;
+IdModule  = MyFootprints:Moteino;
 EndCmp
 
 BeginCmp
@@ -173,13 +159,6 @@ TimeStamp = /549591E3;
 Reference = U2;
 ValeurCmp = 24C16;
 IdModule  = Power_Integrations:PDIP-8;
-EndCmp
-
-BeginCmp
-TimeStamp = /54960506;
-Reference = U3;
-ValeurCmp = RFM69HW;
-IdModule  = MyFootprints:RFM69;
 EndCmp
 
 BeginCmp
